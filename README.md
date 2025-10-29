@@ -42,6 +42,9 @@ For any doubt contact me here: - <br>
 GeeksforGeeks - AI Tools<br>
 Website - https://www.geeksforgeeks.org/batch/skill-up-ai-tools<br>
 <br>
+ HP AI for Business Professionals<br>
+Website – https://www.hp.com/us-en/shop/offer.aspx?p=hp-life-course-ai-for-business-professionals<br>
+<br>
 </details>
 
 <details>
