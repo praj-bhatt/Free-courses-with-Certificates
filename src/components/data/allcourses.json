@@ -13,7 +13,13 @@
       "name": "Elements of AI",
       "source": "University of Helsinki",
       "link": "https://www.elementsofai.com/"
-    }
+    },
+      {
+        "icon": "fa-solid fa-robot",
+        "name": "AI for business professionals",
+        "source": "HP LIfe Courses",
+        "link": "https://www.life-global.org/course/423-ai-for-business-professionals"
+      },
     ]
   },
   {
